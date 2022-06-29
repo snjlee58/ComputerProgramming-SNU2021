@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sbunn/OneDrive/Documents/School Work/2021-2/Computer Programming/HW5_skeleton/HW5/problem2/CSI.h
+iostream
+-
+string
+-
+cmath
+-
+
+C:/Users/sbunn/OneDrive/Documents/School Work/2021-2/Computer Programming/HW5_skeleton/HW5/problem2/TestHelper.h
+iostream
+-
+sstream
+-
+fstream
+-
+
+C:/Users/sbunn/OneDrive/Documents/School Work/2021-2/Computer Programming/HW5_skeleton/HW5/problem2/main.cpp
+CSI.h
+C:/Users/sbunn/OneDrive/Documents/School Work/2021-2/Computer Programming/HW5_skeleton/HW5/problem2/CSI.h
+TestHelper.h
+C:/Users/sbunn/OneDrive/Documents/School Work/2021-2/Computer Programming/HW5_skeleton/HW5/problem2/TestHelper.h
+cassert
+-
+iomanip
+-
+
